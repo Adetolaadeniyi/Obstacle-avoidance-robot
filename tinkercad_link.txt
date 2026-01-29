@@ -1,0 +1,8 @@
+Tinkercad Circuit: Obstacle Avoidance Robot
+
+Link:
+https://www.tinkercad.com/things/cuq8IjzizDR-obstacle-avoidance-robot?sharecode=wLNVxtB71t77IyfFuBL6ui1FIQdDCJHDyzPpoRVyXto
+
+Description:
+This Tinkercad simulation demonstrates the obstacle avoidance logic
+and motor control behavior of the robot using Arduino.
